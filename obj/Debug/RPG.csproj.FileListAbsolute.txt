@@ -1,0 +1,10 @@
+C:\Users\micab.MICA\Desktop\RGP\bin\Debug\RPG.exe.config
+C:\Users\micab.MICA\Desktop\RGP\bin\Debug\RPG.exe
+C:\Users\micab.MICA\Desktop\RGP\bin\Debug\RPG.pdb
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.csproj.AssemblyReference.cache
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.MiJuego.resources
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.csproj.GenerateResource.cache
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.exe
+C:\Users\micab.MICA\Desktop\RGP\obj\Debug\RPG.pdb
